@@ -4,7 +4,7 @@ Synthia is a feature-rich Discord bot designed to provide real-time updates and 
 
 ---
 <!-- ![Synthia](https://i.imgur.com/Pp7Lqi1.jpg) -->
-<img src="media/Screenshot.png" height=200px width=400px>
+<img src="media/Synthia- Discord Bot.png" alt="Synthia-chan-banner">
 <!-- ![Synthia](https://i.imgur.com/dtvmhLK.jpg)
 ![Synthia](https://i.imgur.com/1C3LD34.jpg) -->
 
