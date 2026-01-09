@@ -11,7 +11,7 @@ beautifulsoup4==4.12.3
 bs4==0.0.2
 certifi==2025.6.15
 charset-normalizer==3.4.0
-click==8.1.7
+click==8.1.8
 colorama==0.4.6
 decorator==5.2.1
 defusedxml==0.7.1
@@ -57,7 +57,7 @@ Pygments==2.19.1
 PyNaCl==1.5.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
-pyzmq==26.4.0
+pyzmq==27.0.2
 referencing==0.36.2
 requests==2.32.3
 requirements-parser==0.13.0
